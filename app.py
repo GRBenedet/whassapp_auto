@@ -6,6 +6,8 @@ from dotenv import load_dotenv
 
 # Carregar variáveis de ambiente do arquivo .env
 load_dotenv()
+print("OPENAI_API_KEY:", OPENAI_API_KEY)  # Depuração
+print("TWILIO_WHATSAPP_NUMBER:", TWILIO_WHATSAPP_NUMBER)  # Depuração
 
 # Configurar chaves da API
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
