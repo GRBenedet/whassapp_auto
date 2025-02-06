@@ -1,0 +1,188 @@
+{"messages": [
+    {"role": "system", "content": "Você é um agente vendedor técnico e formal, que responde dúvidas de clientes sobre serviços de engenharia."},
+
+    // Laudo NR-13
+    {"role": "user", "content": "Olá, gostaria de um orçamento para um Laudo NR-13."},
+    {"role": "assistant", "content": "Claro! Para preparar um orçamento, preciso de algumas informações."}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "Qual a quantidade de vasos de pressão"}
+    {"role": "assistant", "content": "Modelo ou volume dos vasos de pressão:"}
+    {"role": "assistant", "content": "E sera nessesário calibração de válvulas e manômetros?"}
+  ]}
+  
+  {"messages": [
+    {"role": "user", "content": "Vocês realizam inspeção de caldeiras?"},
+    {"role": "assistant", "content": "Sim, realizamos inspeção de caldeiras conforme a Norma Regulamentadora NR-13. Você precisa de uma inspeção inicial ou periódica?"}
+    {"role": "assistant", "content": "e tambem sera nessesario algumas informações a mais, segue lista a baixo"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "Qual a quantidade de vasos de pressão"}
+    {"role": "assistant", "content": "Modelo ou volume dos vasos de pressão:"}
+    {"role": "assistant", "content": "E sera nessesário calibração de válvulas e manômetros?"}
+  ]}
+
+  {"messages": [
+    {"role": "user", "content": "Preciso de um orçamento para inspeção em vasos de pressão."},
+    {"role": "assistant", "content": "Sim, mas para gerar um orçamento, preciso saber a quantidade de vasos de pressão e suas especificações. Você poderia fornecer essas informações?"}
+    {"role": "assistant", "content": "e tambem sera nessesario algumas informações a mais, segue lista a baixo"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "Qual a quantidade de vasos de pressão"}
+    {"role": "assistant", "content": "Modelo ou volume dos vasos de pressão:"}
+    {"role": "assistant", "content": "E sera nessesário calibração de válvulas e manômetros?"}
+  ]}
+
+  {"messages": [
+    {"role": "user", "content": "Preciso de um orçamento para inspeção em um autoclave."},
+    {"role": "assistant", "content": "Sim, mas para gerar um orçamento, preciso saber a quantidade de autoclaves e suas especificações. Você poderia fornecer essas informações?"}
+    {"role": "assistant", "content": "e tambem sera nessesario algumas informações a mais, segue lista a baixo"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "Qual a quantidade de vasos de pressão"}
+    {"role": "assistant", "content": "Modelo ou volume dos vasos de pressão:"}
+    {"role": "assistant", "content": "E sera nessesário calibração de válvulas e manômetros?"}
+  ]}
+
+  // fim da secção do laudo NR-13
+
+  // calibração de válvulas e manômetros
+
+  {"messages": [
+    {"role": "user", "content": "Preciso de um orçamento para a calibração."},
+    {"role": "assistant", "content": "Sim, mas para gerar um orçamento, preciso saber de algumas informações:"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "Qual a quantidade de válvulas e manômetros?"}
+  ]}
+
+  {"messages": [
+    {"role": "user", "content": "Preciso de um orçamento para a calibração de válvulas e manômetros"},
+    {"role": "assistant", "content": "Sim, mas para gerar um orçamento, preciso saber de algumas informações:"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "Qual a quantidade de válvulas e manômetros?"}
+  ]}
+
+  // fim da secção Calibração de válvulas e manômetros
+
+  // Laudo de Ruído Ambiental
+
+  {"messages": [
+    {"role": "user", "content": "Preciso de um Laudo de Ruído Ambiental"},
+    {"role": "assistant", "content": "Sim, mas para gerar um orçamento, preciso saber de algumas informações:"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "A necessidade de avaliação é para questões de reclamação com vizinhos?"}
+    {"role": "assistant", "content": "Qual a quantidade de pontos a serem medidos?"}
+    {"role": "assistant", "content": "Caso não saiba, iremos verificar de acordo com a área do empreendimento na imagem de satélite."}
+    {"role": "assistant", "content": "Há a necessidade de medição diurna, noturna ou ambos?"}
+    {"role": "assistant", "content": "Caso não saiba, a empresa funciona em qual horário?"}
+  ]}
+  {"messages": [
+    {"role": "user", "content": "Preciso de um Laudo de Ruído"},
+    {"role": "assistant", "content": "Sim, mas para gerar um orçamento, preciso saber de algumas informações:"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "A necessidade de avaliação é para questões de reclamação com vizinhos?"}
+    {"role": "assistant", "content": "Qual a quantidade de pontos a serem medidos?"}
+    {"role": "assistant", "content": "Caso não saiba, iremos verificar de acordo com a área do empreendimento na imagem de satélite."}
+    {"role": "assistant", "content": "Há a necessidade de medição diurna, noturna ou ambos?"}
+    {"role": "assistant", "content": "Caso não saiba, a empresa funciona em qual horário?"}
+  ]}
+  {"messages": [
+    {"role": "user", "content": "Preciso de um Laudo de Ruído vizinho"},
+    {"role": "assistant", "content": "Sim, mas para gerar um orçamento, preciso saber de algumas informações:"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "A necessidade de avaliação é para questões de reclamação com vizinhos?"}
+    {"role": "assistant", "content": "Qual a quantidade de pontos a serem medidos?"}
+    {"role": "assistant", "content": "Caso não saiba, iremos verificar de acordo com a área do empreendimento na imagem de satélite."}
+    {"role": "assistant", "content": "Há a necessidade de medição diurna, noturna ou ambos?"}
+    {"role": "assistant", "content": "Caso não saiba, a empresa funciona em qual horário?"}
+  ]}
+  {"messages": [
+    {"role": "user", "content": "Preciso de um Laudo de NBR 10151"},
+    {"role": "assistant", "content": "Sim, mas para gerar um orçamento, preciso saber de algumas informações:"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "A necessidade de avaliação é para questões de reclamação com vizinhos?"}
+    {"role": "assistant", "content": "Qual a quantidade de pontos a serem medidos?"}
+    {"role": "assistant", "content": "Caso não saiba, iremos verificar de acordo com a área do empreendimento na imagem de satélite."}
+    {"role": "assistant", "content": "Há a necessidade de medição diurna, noturna ou ambos?"}
+    {"role": "assistant", "content": "Caso não saiba, a empresa funciona em qual horário?"}
+  ]}
+
+  {"messages": [
+    {"role": "user", "content": "Preciso de um Laudo de Ruido vizinhança"},
+    {"role": "assistant", "content": "Sim, mas para gerar um orçamento, preciso saber de algumas informações:"}
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "A necessidade de avaliação é para questões de reclamação com vizinhos?"}
+    {"role": "assistant", "content": "Qual a quantidade de pontos a serem medidos?"}
+    {"role": "assistant", "content": "Caso não saiba, iremos verificar de acordo com a área do empreendimento na imagem de satélite."}
+    {"role": "assistant", "content": "Há a necessidade de medição diurna, noturna ou ambos?"}
+    {"role": "assistant", "content": "Caso não saiba, a empresa funciona em qual horário?"}
+  ]}
+    // fim da secção de Ruido Ambiental
+
+    // laudo desempenho acústico
+  {"messages": [
+    {"role": "user", "content": "Preciso de um Laudo de desempenho acústico"},
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "quais ensaios necessários? 1) fachada 2) entre ambientes 3) entre pisos"}
+    {"role": "assistant", "content": "Quantas unidades habitacionais precisam ser ensaiadas?"}
+  ]}
+  {"messages": [
+    {"role": "user", "content": "Preciso de um Laudo NBR 15575"},
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "quais ensaios necessários? 1) fachada 2) entre ambientes 3) entre pisos"}
+    {"role": "assistant", "content": "Quantas unidades habitacionais precisam ser ensaiadas?"}
+  ]}
+  {"messages": [
+    {"role": "user", "content": "Preciso de um ensaio acústico de fachadas"},
+    {"role": "assistant", "content": "O seu nome ou da empresa:"}
+    {"role": "assistant", "content": "O endereço completo do local de prestação de serviço:"}
+    {"role": "assistant", "content": "O e-mail pra envio da propsta comercial:"}
+    {"role": "assistant", "content": "quais ensaios necessários? 1) fachada 2) entre ambientes 3) entre pisos"}
+    {"role": "assistant", "content": "Quantas unidades habitacionais precisam ser ensaiadas?"}
+  ]}
+
+  //fim da secção de laudo de desempenho acústico
+
+    
+
+  {"messages": [
+    {"role": "user", "content": "Qual o prazo para entrega do relatório técnico?"},
+    {"role": "assistant", "content": "O prazo pode variar conforme a complexidade da inspeção e o volume de serviços. Em média, entregamos o relatório em 7 a 10 dias úteis após a realização da vistoria."}
+  ]}
+  
+  {"messages": [
+    {"role": "user", "content": "Tem algum técnico certificado para assinar os laudos?"},
+    {"role": "assistant", "content": "Sim, todos os nossos laudos são assinados por engenheiros habilitados com certificação no CREA."}
+  ]}
+  
+  {"messages": [
+    {"role": "user", "content": "Já enviei as informações, quando recebo o orçamento?"},
+    {"role": "assistant", "content": "Recebemos seus dados! O orçamento será enviado por e-mail em até 24 horas. Caso precise de algo mais, estamos à disposição."}
+  ]}
+  
+  {"messages": [
+    {"role": "user", "content": "Obrigado!"},
+    {"role": "assistant", "content": "Por nada! Qualquer dúvida, estamos à disposição."}
+  ]}
